@@ -1,0 +1,42 @@
+.main-div {
+    background-color: rgba(202,210,197,255);
+}
+
+.sub-div {
+    background-color: rgba(47,61,70,255);
+    width: 100%;
+    letter-spacing: 0.1em;
+}
+
+.first-div {
+    background-color: rgba(53,53,53,255);
+    width: 110%;
+    height: 30em;
+    border-radius: 20px;
+}
+ 
+.sec-div {
+    background-color: rgba(53,53,53,255);
+    width: 65%;
+    /* height: 3em; */
+    color: #6e747c;
+    border-radius: 10px;
+}
+
+.div3 {
+    background-color: rgba(53,53,53,255);
+    width: 11em;
+    height: 8em;
+    margin: auto;
+    /* padding: 0% !important; */
+    /* margin-left: em; */
+    border-radius: 14px;
+}
+
+.div4 {
+    background-color: rgba(53,53,53,255);
+    width: 89%;
+    height: 12em;
+    border-radius: 15px;
+    /* margin-left: 3em !important; */
+}
